@@ -1,10 +1,10 @@
 ### Hey 👋, I'm Faahem !
-#### I'm Interested In Design And Development. And Familier with JavaScript, TypeScript, React, React Native, MongoDB, FireBase, Redux, GraphQL, Node, Express
+#### I'm Interested In Design And Development. And Familier with JavaScript, TypeScript, React, NextjS, NestJS, React Native, MongoDB, FireBase, Redux, GraphQL, Node, Express
 ![Design And Development](https://i.ibb.co/zr8Td3q/logoos.png)
 
 <h1>I'm Full Stack Web & Mobile App Developer</h1>
 
-Skills: JavaScript, TypeScript, React, React Native, MongoDB, FireBase, Redux, GraphQL, Node, Express
+Skills: NextjS, NestJS, JavaScript, TypeScript, React, React Native, MongoDB, FireBase, Redux, GraphQL, Node, Express
 
 - 🔭 I’m currently working on my own projects 
 - 🌱 I’m currently learning Python 
