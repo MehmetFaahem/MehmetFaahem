@@ -14,7 +14,6 @@ Skills: NextjS, NestJS, JavaScript, TypeScript, React, React Native, MongoDB, Fi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetFaahem)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MehmetFaahem&show_icons=true)  
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="muhammad-faahem-934a3a243" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/muhammad-faahem-934a3a243?trk=profile-badge">Muhammad Faahem</a></div>
