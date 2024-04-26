@@ -1,20 +1,53 @@
+<div style=''>
+  
 ### Hey 👋, I'm Faahem !
-#### I'm Interested In Design And Development. And Familier with JavaScript, TypeScript, React, NextjS, NestJS, React Native, MongoDB, FireBase, Redux, GraphQL, Node, Express
 
 <h1>I'm Full Stack Web & Mobile App Developer</h1>
+<h1>Skills: NextJS, NestJS, JavaScript, TypeScript, ReactJS, React Native, MongoDB, FireBase, Redux, GraphQL, Node, Express</h1>
 
-Skills: NextjS, NestJS, JavaScript, TypeScript, React, React Native, MongoDB, FireBase, Redux, GraphQL, Node, Express
+<div>
+  <h2>Most used language</h2>
+  <ul style='color:red'>
+    <li>
+      <h2>🚀 Javascript</h2>
+    </li>
+  </ul>
+</div>
+<div>
+  <h2>Most used Library</h2>
+  <ul style='color:red'>
+    <li>
+      <h2>🚀 React JS</h2>
+    </li>
+  </ul>
+</div>
+<div>
+  <h2>Most used Frameworks</h2>
+  <ul style='color:red'>
+    <li>
+      <h2>🚀 Next JS (ReactJS)</h2>
+      <h2>🚀 Nest JS (NodeJS)</h2>
+    </li>
+  </ul>
+</div>
+<div>
+  <h2>Most used databases</h2>
+  <ul style='color:red'>
+    <li>
+      <h2>🚀 MongoDB</h2>
+      <h2>🚀 MySQL</h2>
+    </li>
+  </ul>
+</div>
 
-- 🔭 I’m currently working on my own projects 
-- 🌱 I’m currently learning Python 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MehmetFaahem)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mehmet-faahem-72a336216//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCGeCcFKMhT1iWPMUYh3UPiQ)  
+- 🔭 I’m currently working as a Frontend Developer at Kreatech
+- 🌱 I’m currently learning PHP 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetFaahem)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="muhammad-faahem-934a3a243" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/muhammad-faahem-934a3a243?trk=profile-badge">Muhammad Faahem</a></div>
+
               
+</div>
