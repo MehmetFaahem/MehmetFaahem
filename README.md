@@ -8,7 +8,7 @@
 ### About Me
 - 🌐 Currently a **Software Engineer** at **Kreatech** (Hybrid, Dhaka)
 - 💻 2+ years of experience in crafting responsive, user-friendly web applications
-- 📚 Pursuing a **BS in Computer Science** from **Bangladesh University of Business and Technology (BUBT)**
+- 📚 Pursuing a **BS in Computer Science** from **University Of South Asia**
 - 🌱 Currently expanding my skill set by learning **Django**
 
 ---
