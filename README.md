@@ -6,10 +6,10 @@
 ---
 
 ### About Me
-- 🌐 Currently a **Software Engineer** at **Kreatech** (Hybrid, Dhaka)
-- 💻 3+ years of experience in crafting responsive, user-friendly web applications
-- 📚 Pursuing a **BS in Computer Science** from **University Of South Asia**
-- 🌱 Currently expanding my skill set by learning **Machine Learning**
+- Currently a **Software Engineer** at **Kreatech** (Hybrid, Dhaka)
+- 3+ years of experience in crafting responsive, user-friendly web applications
+- Pursuing a **BS in Computer Science** from **University Of South Asia**
+- Currently expanding my skill set by learning **Machine Learning**
 
 ---
 
