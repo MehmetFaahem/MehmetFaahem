@@ -1,15 +1,15 @@
 <div align="center">
   <h1>Hey there! 👋 I'm Fahim</h1>
-  <h3>Full Stack Web & Mobile App Developer</h3>
+  <h3>Full Stack Software Engineer</h3>
 </div>
 
 ---
 
 ### About Me
 - 🌐 Currently a **Software Engineer** at **Kreatech** (Hybrid, Dhaka)
-- 💻 2+ years of experience in crafting responsive, user-friendly web applications
+- 💻 3+ years of experience in crafting responsive, user-friendly web applications
 - 📚 Pursuing a **BS in Computer Science** from **University Of South Asia**
-- 🌱 Currently expanding my skill set by learning **Django**
+- 🌱 Currently expanding my skill set by learning **Machine Learning**
 
 ---
 
@@ -33,6 +33,7 @@
 ---
 
 ### Noteworthy Projects
+- **[Ai Content Generator](https://github.com/MehmetFaahem/Genwri)** – Next.js, TypeScript, PostgreSQL, Prisma, Trpc, TailwindCSS
 - **[Advanced Admin Panel](https://github.com/MehmetFaahem/bilash)** – Next.js, TailwindCSS, Ant Design
 - **[Appointment Booking Software](https://pahona.org/)** – React, Node.js
 - **[E-Commerce Backend](https://github.com/MehmetFaahem/medi-backend)** – Nest.js, MongoDB
