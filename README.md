@@ -30,6 +30,9 @@
 - **Full Stack Developer**, Softex Solution (Remote, USA) – *Jan 2023 – March 2024*  
   Built responsive UIs with **React** and integrated with backend APIs using **Node.js** and **Nest.js**. Managed relational databases with **MySQL**, optimizing performance and data integrity.
 
+- **Full Stack Developer**, Fiverr Marketplace – *Jan 2022 – Dec 2022*  
+  Built responsive UIs with **React.JS and Next.JS** and integrated with backend APIs using **Node.js** and **Nest.js**. 
+
 ---
 
 ### Noteworthy Projects
