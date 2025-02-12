@@ -6,7 +6,7 @@
 ---
 
 ### About Me
-- 4+ years of experience in crafting responsive, user-friendly applications using Next.js, React.js and Node.js
+- 4+ years of experience in crafting responsive, user-friendly applications using **Next.js**, **React.js** and **Node.js**
 - Pursuing a **BS in Computer Science** from **University Of South Asia**
 - Currently expanding my skill set by learning **Machine Learning**
 
